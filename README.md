@@ -85,7 +85,3 @@ Embora este projeto atenda aos requisitos de modelagem orientada a objetos do es
 * **Lógica de Negócios:** Implementar métodos complexos, como cálculo de média ponderada por peso das provas e lógica de aprovação/reprovação.
 
 ---
-
-## ✒️ Autor
-
-* **Michel Soares** - [GitHub](https://github.com/UNI-MichelSoares)
